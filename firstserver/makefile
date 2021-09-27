@@ -1,2 +1,2 @@
-firstserver:client.c server.c
+firstserver:client.c serve.c
     g++ $^ -o $@
